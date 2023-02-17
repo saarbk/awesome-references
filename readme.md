@@ -1,28 +1,26 @@
 # References  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list for srudent to share LaTeX homework, exersice, solutions as a refrences
+> A list for student to share notes, homework solutions, cheetsheed as a refrences
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Math](#math)
+- [Computer Science](#computer-science)
 
 
-## Section
+## Math
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
+- [Basic Combinatorics, TAU, 21](https://saarbk.github.io/Basic-Combinatorics/)
 - [List item](http://example.com)
 
 
-## Another Section
+## Computer Science
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Introduction to Machine Learning, TAU, 22](https://github.com/saarbk/Introduction-to-Machine-Learning)
+- [Computational Models, OPU, 22](https://saarbk.github.io/computational-models/)
+- [Computational models & Complexity, TAU, 22 ](https://github.com/saarbk/Complexity-and-Computational-models-Cheat-Sheet)
+- [ Complexity (Cheat Sheet), TAU, 22](https://github.com/saarbk/Complexity-and-Computational-models-Cheat-Sheet)
 
 
 ## Contribute
