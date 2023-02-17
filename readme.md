@@ -23,6 +23,7 @@
 - [Computational models & Complexity, TAU, 22 ](https://github.com/saarbk/Complexity-and-Computational-models-Cheat-Sheet)
 - [Database Exercises and Solutions, SQL Exercises](https://www.w3resource.com/sql-exercises/)
 - [ Complexity (Cheat Sheet), TAU, 22](https://github.com/saarbk/Complexity-and-Computational-models-Cheat-Sheet)
+- [ Intro to AI , UC Berkeley CS188, 18 ](http://ai.berkeley.edu/project_overview.html)
 
 
 ## Contribute
