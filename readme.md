@@ -25,6 +25,8 @@
 - [Database Exercises and Solutions, SQL Exercises](https://www.w3resource.com/sql-exercises/)
 - [ Complexity (Cheat Sheet), TAU, 22](https://github.com/saarbk/Complexity-and-Computational-models-Cheat-Sheet)
 - [ Intro to AI , UC Berkeley CS188, 18 ](http://ai.berkeley.edu/project_overview.html)
+- [Operating Systems: Three Easy Pieces, Remzi Arpaci-Dusseau ,16](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Algorithms and Data Structures, Princeton University, 14](https://algs4.cs.princeton.edu/home/)
 
 
 ## Contribute
