@@ -1,6 +1,6 @@
-# references  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# References  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> awseomr list for srudent to share LaTeX homework!
+> A list for srudent to share LaTeX homework, exersice, solutions as a refrences
 
 
 ## Contents
