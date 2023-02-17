@@ -12,7 +12,8 @@
 ## Math
 
 - [Basic Combinatorics, TAU, 21](https://saarbk.github.io/Basic-Combinatorics/)
-- [List item](http://example.com)
+- [Abstract Algebra Practice Problems and Solutions, University of Michigan, 18](http://www.math.lsa.umich.edu/~kesmith/Math412-2018.html)
+
 
 
 ## Computer Science
